@@ -4,3 +4,7 @@ resources:
 namePrefix: dev-
 commonLabels:
   environment: develop
+
+
+patches:
+  - patch.yaml
